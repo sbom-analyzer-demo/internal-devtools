@@ -1,0 +1,9 @@
+{
+  "name": "internal-devtools",
+  "version": "1.0.0",
+  "description": "Assorted developer tooling scripts",
+  "private": true,
+  "dependencies": {
+    "minimist": "1.2.5"
+  }
+}
